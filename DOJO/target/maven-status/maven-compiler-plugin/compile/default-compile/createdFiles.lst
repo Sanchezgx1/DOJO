@@ -1,0 +1,13 @@
+br\com\dojo\dojo\LimpadorOperador.class
+br\com\dojo\dojo\LimpadorBarraBarra.class
+br\com\dojo\dojo\Limpador.class
+br\com\dojo\dojo\LimpadorBarraI.class
+br\com\dojo\dojo\LimpadorN.class
+br\com\dojo\dojo\LimpadorAspas.class
+br\com\dojo\dojo\LimpadorNumero.class
+br\com\dojo\dojo\LimpadorBarra.class
+br\com\dojo\dojo\LimpadorAsteriscoA.class
+br\com\dojo\dojo\Simbolo.class
+br\com\dojo\dojo\AnalizadorLexico.class
+br\com\dojo\dojo\LimpadorAsteriscoF.class
+br\com\dojo\dojo\EnumLimpador.class
